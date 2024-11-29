@@ -1,3 +1,13 @@
 *{
     font-family: 'Roboto', sans-serif;
 }
+
+.content {
+    /* rem é uma medida maleavel que se adapta ao browser que o usuário estiver usando */
+    padding: 1rem;
+
+}
+
+.content h1{
+    margin: 0;
+}
